@@ -264,10 +264,10 @@ body{
  .mail3:hover{
     border: 3px solid var(--primary);
  }
- @media screen and (width<667px) {
+ @media screen and (width<670px) {
     .home11{
         background-image:url(bg.jpg);
-        height: 40vh;
+        height: 28vh;
         background-color:var(--back);
         background-position: center;
     }   
@@ -294,8 +294,8 @@ body{
         text-align: center;
         z-index: 2;
         position: absolute;
-        margin-left: 45px;
-        margin-top: -25px;
+        margin-left: 75px;
+        margin-top: -30px;
       }
       .menubars ul{
         display: flex;

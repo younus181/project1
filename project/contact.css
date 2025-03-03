@@ -284,7 +284,7 @@ body{
  @media screen and (width<667px) {
     .home11{
         background-image:url(bg.jpg);
-        height: 40vh;
+        height: 30vh;
         background-color:var(--back);
         background-position: center;
     }   
@@ -311,8 +311,8 @@ body{
         text-align: center;
         z-index: 2;
         position: absolute;
-        margin-left: 45px;
-        margin-top: -25px;
+        margin-left: 75px;
+        margin-top: -30px;
       }
       .menubars ul{
         display: flex;
