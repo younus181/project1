@@ -771,7 +771,7 @@ z-index: 1;
  .mail3:hover{
     border: 3px solid var(--primary);
 }
-@media (max-width: 670px) {
+@media screen and (width<667px)  {
     .c-img{
             object-fit: cover;
             z-index: 0;
