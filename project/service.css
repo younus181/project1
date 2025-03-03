@@ -264,7 +264,7 @@ body{
  .mail3:hover{
     border: 3px solid var(--primary);
  }
- @media (max-width: 670px) {
+ @media screen and (width<667px) {
     .home11{
         background-image:url(bg.jpg);
         height: 40vh;
